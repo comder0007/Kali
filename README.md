@@ -1,4 +1,4 @@
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/mikatechtutor/Kali-Linux-on-Heroku)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/amanlol1261/Kali)
 
 # Kali Linux Docker with Novnc
 
